@@ -1,6 +1,6 @@
 # HTML e CSS
 
-![Captura de Ecrã (47)](https://github.com/vitorianfonseca/AluraPlay/assets/113269524/57ffce37-fde6-4a88-9c62-71f49ba0c818)
+![Captura de Ecrã (48)](https://github.com/vitorianfonseca/AluraPlay/assets/113269524/94c65297-3c3a-4519-a61f-9abc55c57460)
 
 
 > Iniciante
